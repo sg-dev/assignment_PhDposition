@@ -1,0 +1,453 @@
+name	party	state	SGID	thomas_id	bioguide_id	congress	number_of_bills
+Barton, Joe	Republican	TX	62	62.0	B000213	115	7
+Becerra, Xavier	Democrat	CA	70	70.0	B000287	115	0
+Bishop, Sanford D., Jr.	Democrat	GA	91	91.0	B000490	115	4
+Blumenauer, Earl	Democrat	OR	99	99.0	B000574	115	29
+Calvert, Ken	Republican	CA	166	165.0	C000059	115	12
+Chabot, Steve	Republican	OH	187	186.0	C000266	115	28
+Clyburn, James E.	Democrat	SC	210	208.0	C000537	115	8
+Conyers, John, Jr.	Democrat	MI	231	229.0	C000714	115	21
+Cooper, Jim	Democrat	TN	233	231.0	C000754	115	8
+Cummings, Elijah E.	Democrat	MD	258	256.0	C000984	115	18
+DeFazio, Peter A.	Democrat	OR	282	279.0	D000191	115	36
+DeLauro, Rosa L.	Democrat	CT	284	281.0	D000216	115	38
+Doggett, Lloyd	Democrat	TX	306	303.0	D000399	115	18
+Doyle, Michael F.	Democrat	PA	319	316.0	D000482	115	5
+Duncan, John J., Jr.	Republican	TN	325	322.0	D000533	115	14
+Engel, Eliot L.	Democrat	NY	347	344.0	E000179	115	42
+Eshoo, Anna G.	Democrat	CA	358	355.0	E000215	115	13
+Frelinghuysen, Rodney P.	Republican	NJ	418	414.0	F000372	115	1
+Goodlatte, Bob	Republican	VA	450	446.0	G000289	115	25
+Green, Gene	Democrat	TX	466	462.0	G000410	115	8
+Gutierrez, Luis V.	Democrat	IL	482	478.0	G000535	115	4
+Hastings, Alcee L.	Democrat	FL	515	511.0	H000324	115	30
+Hoyer, Steny H.	Democrat	MD	570	566.0	H000874	115	7
+Jackson Lee, Sheila	Democrat	TX	593	588.0	J000032	115	41
+Johnson, Eddie Bernice	Democrat	TX	604	599.0	J000126	115	16
+Johnson, Sam	Republican	TX	608	603.0	J000174	115	35
+Jones, Walter B., Jr.	Republican	NC	617	612.0	J000255	115	19
+Kaptur, Marcy	Democrat	OH	621	616.0	K000009	115	21
+King, Peter T.	Republican	NY	640	635.0	K000210	115	28
+Levin, Sander M.	Democrat	MI	688	683.0	L000263	115	13
+Lewis, John	Democrat	GA	693	688.0	L000287	115	29
+LoBiondo, Frank A.	Republican	NJ	703	699.0	L000554	115	7
+Lofgren, Zoe	Democrat	CA	705	701.0	L000397	115	16
+Lowey, Nita M.	Democrat	NY	713	709.0	L000480	115	9
+Lucas, Frank D.	Republican	OK	715	711.0	L000491	115	4
+Maloney, Carolyn B.	Democrat	NY	733	729.0	M000087	115	41
+Nadler, Jerrold	Democrat	NY	854	850.0	N000002	115	22
+Neal, Richard E.	Democrat	MA	858	854.0	N000015	115	13
+Nolan, Richard M.	Democrat	MN	871	867.0	N000127	115	15
+Norton, Eleanor Holmes	Democrat	DC	872	868.0	N000147	115	32
+Pallone, Frank, Jr.	Democrat	NJ	891	887.0	P000034	115	26
+Pelosi, Nancy	Democrat	CA	909	905.0	P000197	115	0
+Peterson, Collin C.	Democrat	MN	914	910.0	P000258	115	8
+Price, David E.	Democrat	NC	934	930.0	P000523	115	11
+Rogers, Harold	Republican	KY	981	977.0	R000395	115	2
+Rohrabacher, Dana	Republican	CA	983	979.0	R000409	115	12
+Ros-Lehtinen, Ileana	Republican	FL	989	985.0	R000435	115	24
+Roybal-Allard, Lucille	Democrat	CA	1001	997.0	R000486	115	12
+Royce, Edward R.	Republican	CA	1002	998.0	R000487	115	33
+Rush, Bobby L.	Democrat	IL	1007	1003.0	R000515	115	15
+Sanford, Mark	Republican	SC	1016	1012.0	S000051	115	12
+"Scott, Robert C. ""Bobby"""	Democrat	VA	1043	1037.0	S000185	115	20
+Sensenbrenner, F. James, Jr.	Republican	WI	1048	1041.0	S000244	115	29
+Serrano, Jose E.	Democrat	NY	1049	1042.0	S000248	115	12
+Slaughter, Louise McIntosh	Democrat	NY	1076	1069.0	S000480	115	8
+Smith, Christopher H.	Republican	NJ	1078	1071.0	S000522	115	40
+Smith, Lamar	Republican	TX	1082	1075.0	S000583	115	11
+Thompson, Bennie G.	Democrat	MS	1158	1151.0	T000193	115	12
+Thornberry, Mac	Republican	TX	1162	1155.0	T000238	115	8
+Upton, Fred	Republican	MI	1184	1177.0	U000031	115	9
+Velazquez, Nydia M.	Democrat	NY	1191	1184.0	V000081	115	43
+Visclosky, Peter J.	Democrat	IN	1195	1188.0	V000108	115	1
+Waters, Maxine	Democrat	CA	1212	1205.0	W000187	115	40
+Young, Don	Republican	AK	1264	1256.0	Y000033	115	30
+Aderholt, Robert B.	Republican	AL	1276	1460.0	A000055	115	2
+Brady, Kevin	Republican	TX	1284	1468.0	B000755	115	12
+Brady, Robert A.	Democrat	PA	1285	1469.0	B001227	115	6
+Davis, Danny K.	Democrat	IL	1295	1477.0	D000096	115	17
+DeGette, Diana	Democrat	CO	1297	1479.0	D000197	115	12
+Granger, Kay	Republican	TX	1306	1487.0	G000377	115	3
+Kind, Ron	Democrat	WI	1316	1498.0	K000188	115	18
+Lee, Barbara	Democrat	CA	1319	1501.0	L000551	115	45
+McGovern, James P.	Democrat	MA	1322	1504.0	M000312	115	13
+Meeks, Gregory W.	Democrat	NY	1324	1506.0	M001137	115	15
+Pascrell, Bill, Jr.	Democrat	NJ	1328	1510.0	P000096	115	16
+Sessions, Pete	Republican	TX	1343	1525.0	S000250	115	11
+Sherman, Brad	Democrat	CA	1344	1526.0	S000344	115	10
+Shimkus, John	Republican	IL	1345	1527.0	S000364	115	5
+Smith, Adam	Democrat	WA	1346	1528.0	S000510	115	12
+Capuano, Michael E.	Democrat	MA	1366	1564.0	C001037	115	13
+Larson, John B.	Democrat	CT	1379	1583.0	L000557	115	7
+Schakowsky, Janice D.	Democrat	IL	1385	1588.0	S001145	115	26
+Simpson, Michael K.	Republican	ID	1387	1590.0	S001148	115	7
+Thompson, Mike	Democrat	CA	1390	1593.0	T000460	115	23
+Walden, Greg	Republican	OR	1393	1596.0	W000791	115	12
+Napolitano, Grace F.	Democrat	CA	1397	1602.0	N000179	115	8
+Crowley, Joseph	Democrat	NY	1398	1604.0	C001038	115	20
+Schiff, Adam B.	Democrat	CA	1406	1635.0	S001150	115	16
+Issa, Darrell E.	Republican	CA	1408	1640.0	I000056	115	29
+Davis, Susan A.	Democrat	CA	1409	1641.0	D000598	115	13
+McCollum, Betty	Democrat	MN	1421	1653.0	M001143	115	5
+Clay, Wm. Lacy	Democrat	MO	1422	1654.0	C001049	115	6
+Graves, Sam	Republican	MO	1424	1656.0	G000546	115	11
+Tiberi, Patrick J.	Republican	OH	1431	1664.0	T000462	115	17
+Langevin, James R.	Democrat	RI	1435	1668.0	L000559	115	38
+Culberson, John Abney	Republican	TX	1437	1670.0	C001048	115	4
+Larsen, Rick	Democrat	WA	1442	1675.0	L000560	115	10
+Shuster, Bill	Republican	PA	1445	1681.0	S001154	115	5
+Lynch, Stephen F.	Democrat	MA	1449	1686.0	L000562	115	21
+Wilson, Joe	Republican	SC	1451	1688.0	W000795	115	21
+Rogers, Mike D.	Republican	AL	1455	1704.0	R000575	115	7
+Franks, Trent	Republican	AZ	1458	1707.0	F000448	115	8
+Grijalva, Raul M.	Democrat	AZ	1459	1708.0	G000551	115	27
+Nunes, Devin	Republican	CA	1461	1710.0	N000181	115	12
+Diaz-Balart, Mario	Republican	FL	1468	1717.0	D000600	115	6
+Scott, David	Democrat	GA	1473	1722.0	S001157	115	7
+Bordallo, Madeleine Z.	Democrat	GU	1474	1723.0	B001245	115	11
+King, Steve	Republican	IA	1475	1724.0	K000362	115	33
+Ruppersberger, C. A. Dutch	Democrat	MD	1479	1728.0	R000576	115	4
+Pearce, Stevan	Republican	NM	1489	1738.0	P000588	115	12
+Turner, Michael R.	Republican	OH	1492	1741.0	T000463	115	9
+Cole, Tom	Republican	OK	1493	1742.0	C001053	115	7
+Murphy, Tim	Republican	PA	1495	1744.0	M001151	115	5
+Blackburn, Marsha	Republican	TN	1499	1748.0	B001243	115	26
+Hensarling, Jeb	Republican	TX	1500	1749.0	H001036	115	2
+Burgess, Michael C.	Republican	TX	1502	1751.0	B001248	115	20
+Carter, John R.	Republican	TX	1503	1752.0	C001051	115	7
+Bishop, Rob	Republican	UT	1504	1753.0	B001250	115	18
+Ryan, Tim	Democrat	OH	1505	1756.0	R000577	115	23
+Sanchez, Linda T.	Democrat	CA	1507	1757.0	S001156	115	20
+Butterfield, G. K.	Democrat	NC	1512	1761.0	B001251	115	2
+Costa, Jim	Democrat	CA	1513	1774.0	C001059	115	3
+Wasserman Schultz, Debbie	Democrat	FL	1516	1777.0	W000797	115	12
+Lipinski, Daniel	Democrat	IL	1520	1781.0	L000563	115	18
+Cleaver, Emanuel	Democrat	MO	1529	1790.0	C001061	115	1
+Foxx, Virginia	Republican	NC	1530	1791.0	F000450	115	12
+McHenry, Patrick T.	Republican	NC	1531	1792.0	M001156	115	12
+Fortenberry, Jeff	Republican	NE	1532	1793.0	F000449	115	8
+Higgins, Brian	Democrat	NY	1533	1794.0	H001038	115	8
+Dent, Charles W.	Republican	PA	1538	1799.0	D000604	115	8
+Gohmert, Louie	Republican	TX	1540	1801.0	G000552	115	12
+Poe, Ted	Republican	TX	1541	1802.0	P000592	115	44
+Green, Al	Democrat	TX	1542	1803.0	G000553	115	30
+McCaul, Michael T.	Republican	TX	1543	1804.0	M001157	115	30
+Conaway, K. Michael	Republican	TX	1544	1805.0	C001062	115	16
+Marchant, Kenny	Republican	TX	1545	1806.0	M001158	115	14
+Cuellar, Henry	Democrat	TX	1546	1807.0	C001063	115	9
+McMorris Rodgers, Cathy	Republican	WA	1548	1809.0	M001159	115	15
+Reichert, David G.	Republican	WA	1549	1810.0	R000578	115	22
+Moore, Gwen	Democrat	WI	1550	1811.0	M001160	115	18
+Matsui, Doris O.	Democrat	CA	1551	1814.0	M001163	115	8
+Sires, Albio	Democrat	NJ	1554	1818.0	S001165	115	10
+McNerney, Jerry	Democrat	CA	1558	1832.0	M001166	115	15
+McCarthy, Kevin	Republican	CA	1559	1833.0	M001165	115	10
+Lamborn, Doug	Republican	CO	1560	1834.0	L000564	115	17
+Perlmutter, Ed	Democrat	CO	1561	1835.0	P000593	115	7
+Courtney, Joe	Democrat	CT	1562	1836.0	C001069	115	12
+Bilirakis, Gus M.	Republican	FL	1564	1838.0	B001257	115	34
+Castor, Kathy	Democrat	FL	1565	1839.0	C001066	115	10
+Buchanan, Vern	Republican	FL	1566	1840.0	B001260	115	16
+"Johnson, Henry C. ""Hank,"" Jr."	Democrat	GA	1569	1843.0	J000288	115	20
+Loebsack, David	Democrat	IA	1572	1846.0	L000565	115	13
+Roskam, Peter J.	Republican	IL	1574	1848.0	R000580	115	20
+Yarmuth, John A.	Democrat	KY	1579	1853.0	Y000062	115	8
+Sarbanes, John P.	Democrat	MD	1580	1854.0	S001168	115	8
+Walberg, Tim	Republican	MI	1582	1855.0	W000798	115	26
+Walz, Timothy J.	Democrat	MN	1583	1856.0	W000799	115	11
+Ellison, Keith	Democrat	MN	1584	1857.0	E000288	115	36
+Smith, Adrian	Republican	NE	1587	1860.0	S001172	115	11
+Shea-Porter, Carol	Democrat	NH	1588	1861.0	S001170	115	15
+Clarke, Yvette D.	Democrat	NY	1591	1864.0	C001067	115	23
+Jordan, Jim	Republican	OH	1595	1868.0	J000289	115	2
+Cohen, Steve	Democrat	TN	1605	1878.0	C001068	115	33
+Welch, Peter	Democrat	VT	1606	1879.0	W000800	115	29
+Tsongas, Niki	Democrat	MA	1610	1884.0	T000465	115	5
+Latta, Robert E.	Republican	OH	1611	1885.0	L000566	115	23
+Wittman, Robert J.	Republican	VA	1612	1886.0	W000804	115	19
+Foster, Bill	Democrat	IL	1613	1888.0	F000454	115	28
+Carson, Andre	Democrat	IN	1614	1889.0	C001072	115	12
+Speier, Jackie	Democrat	CA	1615	1890.0	S001175	115	29
+Scalise, Steve	Republican	LA	1617	1892.0	S001176	115	6
+Fudge, Marcia L.	Democrat	OH	1620	1895.0	F000455	115	10
+McClintock, Tom	Republican	CA	1624	1908.0	M001177	115	9
+Hunter, Duncan D.	Republican	CA	1625	1909.0	H001048	115	15
+Polis, Jared	Democrat	CO	1626	1910.0	P000598	115	25
+Coffman, Mike	Republican	CO	1628	1912.0	C001077	115	19
+Himes, James A.	Democrat	CT	1629	1913.0	H001047	115	14
+Posey, Bill	Republican	FL	1631	1915.0	P000599	115	19
+Rooney, Thomas J.	Republican	FL	1632	1916.0	R000583	115	8
+Jenkins, Lynn	Republican	KS	1637	1921.0	J000290	115	24
+Guthrie, Brett	Republican	KY	1638	1922.0	G000558	115	18
+Pingree, Chellie	Democrat	ME	1643	1927.0	P000597	115	13
+Paulsen, Erik	Republican	MN	1646	1930.0	P000594	115	39
+Luetkemeyer, Blaine	Republican	MO	1647	1931.0	L000569	115	16
+Harper, Gregg	Republican	MS	1648	1933.0	H001045	115	20
+Lance, Leonard	Republican	NJ	1651	1936.0	L000567	115	25
+Lujan, Ben Ray	Democrat	NM	1654	1939.0	L000570	115	39
+Titus, Dina	Democrat	NV	1655	1940.0	T000468	115	12
+Tonko, Paul	Democrat	NY	1657	1942.0	T000469	115	11
+Schrader, Kurt	Democrat	OR	1665	1950.0	S001180	115	14
+Thompson, Glenn	Republican	PA	1667	1952.0	T000467	115	14
+Roe, David P.	Republican	TN	1669	1954.0	R000582	115	30
+Olson, Pete	Republican	TX	1670	1955.0	O000168	115	12
+Chaffetz, Jason	Republican	UT	1671	1956.0	C001076	115	16
+Connolly, Gerald E.	Democrat	VA	1675	1959.0	C001078	115	27
+Sablan, Gregorio Kilili Camacho	Democrat	MP	1677	1962.0	S001177	115	3
+Quigley, Mike	Democrat	IL	1678	1967.0	Q000023	115	20
+Chu, Judy	Democrat	CA	1680	1970.0	C001080	115	24
+Garamendi, John	Democrat	CA	1681	1973.0	G000559	115	10
+Deutch, Theodore E.	Democrat	FL	1683	1976.0	D000610	115	19
+Graves, Tom	Republican	GA	1686	1979.0	G000560	115	3
+Reed, Tom	Republican	NY	1688	1982.0	R000585	115	29
+Roby, Martha	Republican	AL	1689	1986.0	R000591	115	5
+Brooks, Mo	Republican	AL	1690	1987.0	B001274	115	10
+Sewell, Terri A.	Democrat	AL	1691	1988.0	S001185	115	8
+"Crawford, Eric A. ""Rick"""	Republican	AR	1692	1989.0	C001087	115	11
+Womack, Steve	Republican	AR	1694	1991.0	W000809	115	6
+Gosar, Paul A.	Republican	AZ	1695	1992.0	G000565	115	23
+Schweikert, David	Republican	AZ	1697	1994.0	S001183	115	9
+Denham, Jeff	Republican	CA	1698	1995.0	D000612	115	11
+Bass, Karen	Democrat	CA	1699	1996.0	B001270	115	26
+Tipton, Scott  R.	Republican	CO	1700	1997.0	T000470	115	22
+Webster, Daniel	Republican	FL	1705	2002.0	W000806	115	4
+Ross, Dennis A.	Republican	FL	1706	2003.0	R000593	115	15
+Wilson, Frederica S.	Democrat	FL	1707	2004.0	W000808	115	11
+Woodall, Rob	Republican	GA	1711	2008.0	W000810	115	2
+Scott, Austin	Republican	GA	1712	2009.0	S001189	115	6
+Labrador, Raul R.	Republican	ID	1714	2011.0	L000573	115	8
+Kinzinger, Adam	Republican	IL	1717	2014.0	K000378	115	21
+Hultgren, Randy	Republican	IL	1718	2015.0	H001059	115	20
+Rokita, Todd	Republican	IN	1720	2017.0	R000592	115	18
+Bucshon, Larry	Republican	IN	1721	2018.0	B001275	115	12
+Yoder, Kevin	Republican	KS	1724	2021.0	Y000063	115	4
+Richmond, Cedric L.	Democrat	LA	1726	2023.0	R000588	115	11
+Keating, William R.	Democrat	MA	1728	2025.0	K000375	115	15
+Harris, Andy	Republican	MD	1729	2026.0	H001052	115	5
+Huizenga, Bill	Republican	MI	1731	2028.0	H001058	115	8
+Amash, Justin	Independent	MI	1732	2029.0	A000367	115	8
+Hartzler, Vicky	Republican	MO	1735	2032.0	H001053	115	13
+Long, Billy	Republican	MO	1736	2033.0	L000576	115	7
+Palazzo, Steven M.	Republican	MS	1738	2035.0	P000601	115	9
+Johnson, Bill	Republican	OH	1749	2046.0	J000292	115	12
+Stivers, Steve	Republican	OH	1750	2047.0	S001187	115	20
+Renacci, James B.	Republican	OH	1751	2048.0	R000586	115	20
+Gibbs, Bob	Republican	OH	1752	2049.0	G000563	115	10
+Kelly, Mike	Republican	PA	1754	2051.0	K000376	115	29
+Meehan, Patrick	Republican	PA	1755	2052.0	M001181	115	15
+Marino, Tom	Republican	PA	1756	2053.0	M001179	115	22
+Barletta, Lou	Republican	PA	1757	2054.0	B001269	115	20
+Cicilline, David N.	Democrat	RI	1758	2055.0	C001084	115	50
+Duncan, Jeff	Republican	SC	1760	2057.0	D000615	115	9
+Gowdy, Trey	Republican	SC	1761	2058.0	G000566	115	2
+Noem, Kristi L.	Republican	SD	1763	2060.0	N000184	115	21
+"Fleischmann, Charles J. ""Chuck"""	Republican	TN	1764	2061.0	F000459	115	2
+DesJarlais, Scott	Republican	TN	1765	2062.0	D000616	115	6
+Black, Diane	Republican	TN	1766	2063.0	B001273	115	25
+Flores, Bill	Republican	TX	1768	2065.0	F000461	115	10
+Farenthold, Blake	Republican	TX	1770	2067.0	F000460	115	9
+Griffith, H. Morgan	Republican	VA	1773	2070.0	G000568	115	24
+Herrera Beutler, Jaime	Republican	WA	1774	2071.0	H001056	115	8
+Duffy, Sean P.	Republican	WI	1775	2072.0	D000614	115	22
+McKinley, David B.	Republican	WV	1777	2074.0	M001180	115	38
+Amodei, Mark E.	Republican	NV	1780	2090.0	A000369	115	7
+Bonamici, Suzanne	Democrat	OR	1782	2092.0	B001278	115	20
+Massie, Thomas	Republican	KY	1784	2094.0	M001184	115	8
+DelBene, Suzan K.	Democrat	WA	1786	2096.0	D000617	115	24
+Payne, Donald M., Jr.	Democrat	NJ	1787	2097.0	P000604	115	15
+Sinema, Kyrsten	Democrat	AZ	1789	2099.0	S001191	115	15
+LaMalfa, Doug	Republican	CA	1790	2100.0	L000578	115	15
+Huffman, Jared	Democrat	CA	1791	2101.0	H001068	115	31
+Bera, Ami	Democrat	CA	1792	2102.0	B001287	115	7
+Cook, Paul	Republican	CA	1793	2103.0	C001094	115	14
+Swalwell, Eric	Democrat	CA	1794	2104.0	S001193	115	15
+Valadao, David G.	Republican	CA	1795	2105.0	V000129	115	5
+Brownley, Julia	Democrat	CA	1796	2106.0	B001285	115	24
+Cardenas, Tony	Democrat	CA	1797	2107.0	C001097	115	28
+Ruiz, Raul	Democrat	CA	1799	2109.0	R000599	115	25
+Takano, Mark	Democrat	CA	1800	2110.0	T000472	115	24
+Lowenthal, Alan S.	Democrat	CA	1801	2111.0	L000579	115	17
+Vargas, Juan	Democrat	CA	1802	2112.0	V000130	115	11
+Peters, Scott H.	Democrat	CA	1803	2113.0	P000608	115	20
+Esty, Elizabeth H.	Democrat	CT	1804	2114.0	E000293	115	28
+Yoho, Ted S.	Republican	FL	1805	2115.0	Y000065	115	23
+DeSantis, Ron	Republican	FL	1806	2116.0	D000621	115	14
+Frankel, Lois	Democrat	FL	1809	2119.0	F000462	115	14
+Collins, Doug	Republican	GA	1811	2121.0	C001093	115	22
+Gabbard, Tulsi	Democrat	HI	1812	2122.0	G000571	115	22
+Davis, Rodney	Republican	IL	1816	2126.0	D000619	115	22
+Bustos, Cheri	Democrat	IL	1817	2127.0	B001286	115	21
+Walorski, Jackie	Republican	IN	1818	2128.0	W000813	115	15
+Brooks, Susan W.	Republican	IN	1819	2129.0	B001284	115	19
+Messer, Luke	Republican	IN	1820	2130.0	M001189	115	20
+Barr, Andy	Republican	KY	1821	2131.0	B001282	115	21
+Delaney, John K.	Democrat	MD	1822	2133.0	D000620	115	20
+Wagner, Ann	Republican	MO	1825	2137.0	W000812	115	15
+Hudson, Richard	Republican	NC	1827	2140.0	H001067	115	17
+Pittenger, Robert	Republican	NC	1828	2141.0	P000606	115	10
+Meadows, Mark	Republican	NC	1829	2142.0	M001187	115	32
+Holding, George	Republican	NC	1830	2143.0	H001065	115	12
+Cramer, Kevin	Republican	ND	1831	2144.0	C001096	115	18
+Kuster, Ann M.	Democrat	NH	1832	2145.0	K000382	115	23
+Lujan Grisham, Michelle	Democrat	NM	1833	2146.0	L000580	115	23
+Meng, Grace	Democrat	NY	1835	2148.0	M001188	115	37
+Jeffries, Hakeem S.	Democrat	NY	1836	2149.0	J000294	115	12
+Maloney, Sean Patrick	Democrat	NY	1837	2150.0	M001185	115	19
+Collins, Chris	Republican	NY	1838	2151.0	C001092	115	19
+Wenstrup, Brad R.	Republican	OH	1839	2152.0	W000815	115	12
+Beatty, Joyce	Democrat	OH	1840	2153.0	B001281	115	17
+Joyce, David P.	Republican	OH	1841	2154.0	J000295	115	10
+Bridenstine, Jim	Republican	OK	1842	2155.0	B001283	115	1
+Mullin, Markwayne	Republican	OK	1843	2156.0	M001190	115	19
+Perry, Scott	Republican	PA	1844	2157.0	P000605	115	13
+Rothfus, Keith J.	Republican	PA	1845	2158.0	R000598	115	14
+Cartwright, Matt	Democrat	PA	1846	2159.0	C001090	115	56
+Rice, Tom	Republican	SC	1847	2160.0	R000597	115	9
+O'Rourke, Beto	Democrat	TX	1849	2162.0	O000170	115	24
+Castro, Joaquin	Democrat	TX	1850	2163.0	C001091	115	19
+Williams, Roger	Republican	TX	1852	2165.0	W000816	115	10
+Veasey, Marc A.	Democrat	TX	1853	2166.0	V000131	115	16
+Vela, Filemon	Democrat	TX	1854	2167.0	V000132	115	5
+Stewart, Chris	Republican	UT	1855	2168.0	S001192	115	9
+Kilmer, Derek	Democrat	WA	1856	2169.0	K000381	115	29
+Heck, Denny	Democrat	WA	1857	2170.0	H001064	115	10
+Pocan, Mark	Democrat	WI	1858	2171.0	P000607	115	18
+Kelly, Robin L.	Democrat	IL	1860	2190.0	K000385	115	17
+Smith, Jason	Republican	MO	1861	2191.0	S001195	115	20
+Clark, Katherine M.	Democrat	MA	1863	2196.0	C001101	115	18
+Byrne, Bradley	Republican	AL	1864	2197.0	B001289	115	11
+Adams, Alma S.	Democrat	NC	1867	2201.0	A000370	115	23
+Brat, Dave	Republican	VA	1868	2203.0	B001290	115	21
+Abraham, Ralph Lee	Republican	LA	1869		A000374	115	8
+Aguilar, Pete	Democrat	CA	1870		A000371	115	8
+Allen, Rick W.	Republican	GA	1871		A000372	115	5
+Arrington, Jodey C.	Republican	TX	1872		A000375	115	8
+Babin, Brian	Republican	TX	1874		B001291	115	19
+Bacon, Don	Republican	NE	1875		B001298	115	15
+Balderson, Troy	Republican	OH	1876		B001306	115	0
+Banks, Jim	Republican	IN	1877		B001299	115	19
+Barragan, Nanette Diaz	Democrat	CA	1878		B001300	115	11
+Bergman, Jack	Republican	MI	1879		B001301	115	8
+Beyer, Donald S., Jr.	Democrat	VA	1880		B001292	115	15
+Biggs, Andy	Republican	AZ	1881		B001302	115	20
+Bishop, Mike	Republican	MI	1882		B001293	115	21
+Blum, Rod	Republican	IA	1883		B001294	115	11
+Blunt Rochester, Lisa	Democrat	DE	1884		B001303	115	5
+Bost, Mike	Republican	IL	1885		B001295	115	11
+Boyle, Brendan F.	Democrat	PA	1886		B001296	115	19
+Brown, Anthony G.	Democrat	MD	1887		B001304	115	22
+Buck, Ken	Republican	CO	1888		B001297	115	7
+Budd, Ted	Republican	NC	1889		B001305	115	15
+Carbajal, Salud O.	Democrat	CA	1890		C001112	115	15
+"Carter, Earl L. ""Buddy"""	Republican	GA	1891		C001103	115	18
+Cheney, Liz	Republican	WY	1892		C001109	115	7
+Cloud, Michael	Republican	TX	1893		C001115	115	0
+Comer, James	Republican	KY	1894		C001108	115	5
+Comstock, Barbara	Republican	VA	1895		C001105	115	19
+Correa, J. Luis	Democrat	CA	1896		C001110	115	16
+Costello, Ryan A.	Republican	PA	1897		C001106	115	10
+Crist, Charlie	Democrat	FL	1898		C001111	115	13
+Curbelo, Carlos	Republican	FL	1899		C001107	115	24
+Curtis, John R.	Republican	UT	1900		C001114	115	8
+Davidson, Warren	Republican	OH	1901		D000626	115	13
+DeSaulnier, Mark	Democrat	CA	1902		D000623	115	20
+Demings, Val Butler	Democrat	FL	1903		D000627	115	6
+Dingell, Debbie	Democrat	MI	1904		D000624	115	18
+Donovan, Daniel M., Jr.	Republican	NY	1905		D000625	115	18
+Dunn, Neal P.	Republican	FL	1906		D000628	115	13
+Emmer, Tom	Republican	MN	1907		E000294	115	16
+Espaillat, Adriano	Democrat	NY	1908		E000297	115	22
+Estes, Ron	Republican	KS	1909		E000298	115	6
+Evans, Dwight	Democrat	PA	1910		E000296	115	8
+Faso, John J.	Republican	NY	1911		F000464	115	18
+Ferguson, A. Drew, IV	Republican	GA	1912		F000465	115	9
+Fitzpatrick, Brian K.	Republican	PA	1913		F000466	115	30
+Gaetz, Matt	Republican	FL	1914		G000578	115	13
+Gallagher, Mike	Republican	WI	1915		G000579	115	18
+Gallego, Ruben	Democrat	AZ	1916		G000574	115	9
+Garrett, Thomas A., Jr.	Republican	VA	1917		G000580	115	18
+Gianforte, Greg	Republican	MT	1918		G000584	115	5
+Gomez, Jimmy	Democrat	CA	1919		G000585	115	6
+Gonzalez, Vicente	Democrat	TX	1920		G000581	115	7
+Gottheimer, Josh	Democrat	NJ	1922		G000583	115	19
+Graves, Garret	Republican	LA	1924		G000577	115	13
+Grothman, Glenn	Republican	WI	1925		G000576	115	15
+Hanabusa, Colleen	Democrat	HI	1926		H001050	115	13
+Handel, Karen C.	Republican	GA	1927		H001078	115	2
+Hern, Kevin	Republican	OK	1929		H001082	115	0
+Hice, Jody B.	Republican	GA	1930		H001071	115	15
+Higgins, Clay	Republican	LA	1931		H001077	115	15
+Hill, J. French	Republican	AR	1932		H001072	115	15
+Hollingsworth, Trey	Republican	IN	1933		H001074	115	6
+Hurd, Will	Republican	TX	1934		H001073	115	12
+Jayapal, Pramila	Democrat	WA	1935		J000298	115	16
+Jenkins, Evan H.	Republican	WV	1936		J000297	115	11
+Johnson, Mike	Republican	LA	1937		J000299	115	6
+Jones, Brenda	Democrat	MI	1938		J000303	115	2
+Katko, John	Republican	NY	1939		K000386	115	30
+Kelly, Trent	Republican	MS	1940		K000388	115	8
+Kennedy, Joseph P., III	Democrat	MA	1941		K000379	115	13
+Khanna, Ro	Democrat	CA	1942		K000389	115	16
+Kihuen, Ruben J.	Democrat	NV	1943		K000390	115	8
+Kildee, Daniel T.	Democrat	MI	1944		K000380	115	12
+Knight, Stephen	Republican	CA	1945		K000387	115	29
+Krishnamoorthi, Raja	Democrat	IL	1946		K000391	115	20
+Kustoff, David	Republican	TN	1947		K000392	115	7
+LaHood, Darin	Republican	IL	1948		L000585	115	17
+Lamb, Conor	Democrat	PA	1949		L000588	115	6
+Lawrence, Brenda L.	Democrat	MI	1950		L000581	115	19
+Lawson, Al, Jr.	Democrat	FL	1951		L000586	115	14
+Lesko, Debbie	Republican	AZ	1952		L000589	115	3
+Lewis, Jason	Republican	MN	1953		L000587	115	8
+Lieu, Ted	Democrat	CA	1954		L000582	115	31
+Loudermilk, Barry	Republican	GA	1955		L000583	115	13
+Love, Mia B.	Republican	UT	1956		L000584	115	18
+MacArthur, Thomas	Republican	NJ	1957		M001193	115	19
+Marshall, Roger W.	Republican	KS	1958		M001198	115	7
+Mast, Brian J.	Republican	FL	1959		M001199	115	15
+McEachin, A. Donald	Democrat	VA	1960		M001200	115	19
+McSally, Martha	Republican	AZ	1961		M001197	115	28
+Mitchell, Paul	Republican	MI	1962		M001201	115	7
+Moolenaar, John R.	Republican	MI	1963		M001194	115	4
+Mooney, Alexander X.	Republican	WV	1964		M001195	115	8
+Morelle, Joseph D.	Democrat	NY	1965		M001206	115	1
+Moulton, Seth	Democrat	MA	1966		M001196	115	18
+Murphy, Stephanie N.	Democrat	FL	1967		M001202	115	16
+Newhouse, Dan	Republican	WA	1968		N000189	115	10
+Norcross, Donald	Democrat	NJ	1969		N000188	115	9
+Norman, Ralph	Republican	SC	1970		N000190	115	14
+O'Halleran, Tom	Democrat	AZ	1971		O000171	115	18
+Palmer, Gary J.	Republican	AL	1972		P000609	115	7
+Panetta, Jimmy	Democrat	CA	1973		P000613	115	9
+Plaskett, Stacey E.	Democrat	VI	1974		P000610	115	9
+Poliquin, Bruce	Republican	ME	1975		P000611	115	11
+Radewagen, Aumua Amata Coleman	Republican	AS	1976		R000600	115	6
+Raskin, Jamie	Democrat	MD	1977		R000606	115	11
+Ratcliffe, John	Republican	TX	1978		R000601	115	15
+Rice, Kathleen M.	Democrat	NY	1979		R000602	115	17
+Rooney, Francis	Republican	FL	1980		R000607	115	19
+Rosen, Jacky	Democrat	NV	1981		R000608	115	19
+Rouzer, David	Republican	NC	1982		R000603	115	6
+Russell, Steve	Republican	OK	1983		R000604	115	14
+Rutherford, John H.	Republican	FL	1984		R000609	115	12
+Ryan, Paul D.	Republican	WI	1985		R000570	115	2
+Scanlon, Mary Gay	Democrat	PA	1986		S001205	115	0
+Schneider, Bradley Scott	Democrat	IL	1987		S001190	115	30
+Smucker, Lloyd	Republican	PA	1988		S001199	115	10
+Soto, Darren	Democrat	FL	1989		S001200	115	18
+Stefanik, Elise M.	Republican	NY	1990		S001196	115	21
+Suozzi, Thomas R.	Democrat	NY	1991		S001201	115	8
+Taylor, Scott	Republican	VA	1993		T000477	115	18
+Tenney, Claudia	Republican	NY	1994		T000478	115	13
+Torres, Norma J.	Democrat	CA	1995		T000474	115	26
+Trott, David A.	Republican	MI	1996		T000475	115	10
+Walker, Mark	Republican	NC	1997		W000819	115	12
+Walters, Mimi	Republican	CA	1998		W000820	115	8
+Watson Coleman, Bonnie	Democrat	NJ	1999		W000822	115	18
+Weber, Randy K., Sr.	Republican	TX	2000		W000814	115	9
+Westerman, Bruce	Republican	AR	2001		W000821	115	9
+Wild, Susan	Democrat	PA	2002		W000826	115	0
+Young, David	Republican	IA	2003		Y000066	115	15
+Zeldin, Lee M.	Republican	NY	2004		Z000017	115	24
+Zinke, Ryan K.	Republican	MT	2005		Z000018	115	0
